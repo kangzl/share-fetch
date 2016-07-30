@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>kingfish</groupId>
-	<artifactId>kingfish</artifactId>
+	<artifactId>share-fetch</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>share-fetch</name>
-	<description>share-fetch</description>
+	<description>share fetch</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
